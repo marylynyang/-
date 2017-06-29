@@ -1,0 +1,9 @@
+git的指令
+
+git init初始化git仓库
+git config --global user.name "用户名"
+git config --global user.email "邮箱"
+git add filename 把工作区的文件添加暂存区
+git status 查看版本库的状态
+git commit -m "描述信息"  添加到版本库
+git diff 查看工作区中修改的内容
